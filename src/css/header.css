@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+.header{
+    height: 50px;
+    background-color: #444;
+    width: 100%;
+}
+.header header{
+    margin: 0 auto;
+    width: 1200px;
+    line-height: 50px;
+}
+.header img{
+  width: 120px;
+}
+.header input{
+  width: 280px;
+  height: 30px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border: none;
+  line-height: 30px;
+  background-color: gray;
+  color: aliceblue;
+}
+.header header a{
+  margin: 0 20px;
+  color: #fff;
+}

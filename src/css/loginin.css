@@ -1,0 +1,54 @@
+@import '~antd/dist/antd.css';
+
+.Loginin_title{
+    height: 40px;
+    background-color: #f6f6f6;
+}
+.Loginin_title ul{
+    display: block;
+    float: left;
+}
+.Loginin_title ul li{
+    display: inline-block;
+    margin-left: 6px;
+    font-size: 14px;
+    line-height: 40px;
+}
+.Loginin_input{
+    height: 50px;
+    width: 500px;
+     margin: 50px 0px 0px 90px;
+}
+.Loginin_input2{
+    height: 50px;
+    width: 500px;
+    margin: 10px 0px 0px 95px;
+}
+.Loginin_input label{
+    float: left;
+} 
+.Loginin_input input{
+    float: left;
+    width: 280px;
+    outline: none;
+    height: 30px;
+    margin-left: 5px;
+} 
+.Loginin_input2 label{
+    float: left;
+}
+.Loginin_input2 input{
+    float: left;
+    width: 280px;
+    outline: none;
+    height: 30px;
+    margin-left: 15px;
+} 
+.loginin_btn{
+    width: 150px;
+    height: 35px;
+    border: none;
+    background-color: #5bc0dec9;
+    margin: 10px 0px 0px 135px;
+    color: white;
+}

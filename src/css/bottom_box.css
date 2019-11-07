@@ -1,0 +1,41 @@
+@import '~antd/dist/antd.css';
+
+
+.bottom_box{
+    width: 100%;
+    background-color: #ffffff;
+    height: 200px;
+}
+.bottom_box_content{
+    width: 1200px;
+    height: 200px;
+    margin: 0% auto;
+}
+.top_ul{
+    display: block;
+}
+.top_ul li{
+    margin-top: 20px;
+    display: inline-block;
+}
+.address{
+    margin-left: 5px;
+}
+.top_ul li a:link{
+    color: black;
+}
+.top_ul li a:hover{
+    color: darkgray;
+}
+.img-size1{
+    width: 100px;
+    height: 20px;
+}
+.img-size2{
+    width: 120px;
+    height: 50px;
+}
+.img-size3{
+    width: 170px;
+    height: 55px;
+}
